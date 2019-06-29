@@ -1,0 +1,22 @@
+h1 {
+  font-family: "Alfa Slab One", cursive;
+}
+
+h3 {
+  font-family: "Alfa Slab One", cursive;
+}
+
+body {
+  font-family: "DM Serif Text", serif;
+}
+.card-header {
+  background-color: lightseagreen;
+}
+
+#train-table {
+  background-color: #f2f2f2;
+}
+
+.form-group {
+  background-color: #f2f2f2;
+}
